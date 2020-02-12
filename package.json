@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {}
+}
